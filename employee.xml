@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<Employees>
+	<Employee>
+		<name age="29">Pankaj</name>
+		<age>29</age>
+		<role>Java Developer</role>
+		<gender>Male</gender>
+	</Employee>
+	<Employee>
+		<name age="35">Lisa</name>
+		<age>35</age>
+		<role>CSS Developer</role>
+		<gender>Female</gender>
+	</Employee>
+</Employees>
